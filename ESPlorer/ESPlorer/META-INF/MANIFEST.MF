@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_71-b14 (Oracle Corporation)
+Class-Path: lib/jssc.jar lib/AbsoluteLayout.jar lib/beansbinding-1.2.1
+ .jar lib/rsyntaxtextarea-2.5.8.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: ESPlorer.ESPlorer
+

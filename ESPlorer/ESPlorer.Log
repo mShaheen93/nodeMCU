@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-04-30T21:16:21.786633Z</date>
+  <millis>1588281381786</millis>
+  <nanos>633000</nanos>
+  <sequence>4</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.279189Z</date>
+  <millis>1588281382279</millis>
+  <nanos>189000</nanos>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.281688Z</date>
+  <millis>1588281382281</millis>
+  <nanos>688000</nanos>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.371553Z</date>
+  <millis>1588281382371</millis>
+  <nanos>553000</nanos>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.374462Z</date>
+  <millis>1588281382374</millis>
+  <nanos>462000</nanos>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.375455Z</date>
+  <millis>1588281382375</millis>
+  <nanos>455000</nanos>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:22.376517Z</date>
+  <millis>1588281382376</millis>
+  <nanos>517000</nanos>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:23.153347Z</date>
+  <millis>1588281383153</millis>
+  <nanos>347000</nanos>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:23.188040Z</date>
+  <millis>1588281383188</millis>
+  <nanos>40000</nanos>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2020-04-30T21:16:23.189686Z</date>
+  <millis>1588281383189</millis>
+  <nanos>686000</nanos>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2020-04-30T21:33:06.117170Z</date>
+  <millis>1588282386117</millis>
+  <nanos>170000</nanos>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2020-04-30T21:33:06.166659Z</date>
+  <millis>1588282386166</millis>
+  <nanos>659000</nanos>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>found last saved serial port /dev/ttyUSB0</message>
+</record>
+<record>
+  <date>2020-04-30T21:33:06.169090Z</date>
+  <millis>1588282386169</millis>
+  <nanos>90000</nanos>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2020-04-30T21:34:27.165487Z</date>
+  <millis>1588282467165</millis>
+  <nanos>487000</nanos>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Serial port /dev/ttyUSB0 save as default.</message>
+</record>
+<record>
+  <date>2020-04-30T21:34:27.166915Z</date>
+  <millis>1588282467166</millis>
+  <nanos>915000</nanos>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2020-04-30T21:34:27.168150Z</date>
+  <millis>1588282467168</millis>
+  <nanos>150000</nanos>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Try to open port /dev/ttyUSB0, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2020-04-30T21:34:27.173543Z</date>
+  <millis>1588282467173</millis>
+  <nanos>543000</nanos>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Open port /dev/ttyUSB0 - Success.</message>
+</record>
+<record>
+  <date>2020-04-30T21:34:27.327326Z</date>
+  <millis>1588282467327</millis>
+  <nanos>326000</nanos>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2020-04-30T21:35:44.845220Z</date>
+  <millis>1588282544845</millis>
+  <nanos>220000</nanos>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Close port /dev/ttyUSB0 - Success.</message>
+</record>
+<record>
+  <date>2020-04-30T23:49:11.470127Z</date>
+  <millis>1588290551470</millis>
+  <nanos>127000</nanos>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Serial port /dev/ttyUSB0 save as default.</message>
+</record>
+<record>
+  <date>2020-04-30T23:49:11.471348Z</date>
+  <millis>1588290551471</millis>
+  <nanos>348000</nanos>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2020-04-30T23:49:11.472540Z</date>
+  <millis>1588290551472</millis>
+  <nanos>540000</nanos>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Try to open port /dev/ttyUSB0, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2020-04-30T23:49:11.475614Z</date>
+  <millis>1588290551475</millis>
+  <nanos>614000</nanos>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Open port /dev/ttyUSB0 - Success.</message>
+</record>
+<record>
+  <date>2020-04-30T23:49:22.361255Z</date>
+  <millis>1588290562361</millis>
+  <nanos>255000</nanos>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>Close port /dev/ttyUSB0 - Success.</message>
+</record>
